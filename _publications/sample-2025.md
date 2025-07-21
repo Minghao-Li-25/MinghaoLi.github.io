@@ -1,5 +1,5 @@
 ---
-title: "Classification of Complete Regular Minimal Surfaces in $\mathbb{R}^n$ with Total Curvature $−6\pi$"
+title: "Classification of Complete Regular Minimal Surfaces in R^n with Total Curvature −6 pi"
 collection: publications
 permalink: /publication/sample-paper/
 date: 2022
