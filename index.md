@@ -1,17 +1,17 @@
 ---
 layout: splash
-title: "Your Name / 你的名字"
+title: " Minghao Li"
 permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-excerpt: "欢迎！这是一个中英双语的学术主页 / Welcome! This is a bilingual academic homepage."
+excerpt: " Welcome! This is an academic homepage."
 ---
 
-💡 研究兴趣 / Research Interests:  
-– 微分几何 / Differential geometry  
-– 等参数函数 / Isoparametric functions  
-– 四维流形 / 4-manifolds
+💡 Research Interests:  
+    – Differential geometry  
+    – Isoparametric functions  
+    – Minimal submanifolds and minimal maps
 
 📚 [论文 Publications](/publications/)  
 📄 [简历 CV](/cv/)  
