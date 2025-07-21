@@ -1,0 +1,6 @@
+title: "Minghao Li / 李明昊"
+description: "Academic Homepage"
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
